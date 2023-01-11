@@ -1,0 +1,5 @@
+- npx nodemon = tipo um liveserver do servidor só q via terminal, sempre q atualiza já mostra o restultado
+- npm init = começar um novo projeto, cria o package.json
+- express = auxilia no servidor, tem o essencial 
+- --save e --save-dev = primeiro salva pra tudo, o segundo é uma dependencia para dev, acho q é só para aqle projeto em questão
+- postman = serve para ter controle, interface.
