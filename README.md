@@ -1,2 +1,3 @@
 # Projeto_To-Do-List
-projeto final
+
+PROJETO AINDA NÃO FINALIZADO
