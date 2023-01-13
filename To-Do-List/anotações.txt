@@ -5,4 +5,4 @@
 - postman = serve para ter controle, interface.
 - criação do frontend foi usando o framework bulma
 - criação do banco de dados foi usando mongoDB
-- video parou em 1.15
+- method-override
